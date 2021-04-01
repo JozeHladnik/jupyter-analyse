@@ -1,0 +1,10 @@
+name: JozeHladnik/jupyter-analyse
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - penpyxl
+  - matplotlib
+  - xlrd
+  - openpyxl
