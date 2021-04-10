@@ -1,4 +1,4 @@
-name: example-environment
+name: JozeHladnik/jupyter-analyse
 channels:
   - conda-forge
 dependencies:
