@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - voila
+  - matplotlib
+  - bqplot
+  - pandas
+  - folium
+  - bokeh
+  - dask
+  - psutil
