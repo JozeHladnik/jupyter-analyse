@@ -5,9 +5,10 @@ dependencies:
   - numpy
   - voila
   - matplotlib
-  - bqplot
   - pandas
-  - folium
-  - bokeh
-  - dask
-  - psutil
+  - seaborn
+  #- bqplot
+  #- folium
+  #- bokeh
+ # - dask
+  #- psutil
